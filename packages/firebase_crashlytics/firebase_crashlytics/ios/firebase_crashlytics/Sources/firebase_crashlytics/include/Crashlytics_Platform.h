@@ -17,7 +17,7 @@
 //  Crashlytics_Platform.h
 //  Crashlytics
 //
-
+#import <FirebaseCore/FirebaseCore.h>
 #import <FirebaseCrashlytics/FirebaseCrashlytics.h>
 
 @interface FIRCrashlytics (Platform)
