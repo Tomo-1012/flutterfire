@@ -9,7 +9,8 @@
 #import <Flutter/Flutter.h>
 #endif
 
-@import FirebaseMessaging;
+#import <FirebaseCore/FirebaseCore.h>
+#import <FirebaseMessaging/FirebaseMessaging.h>
 
 #import <Foundation/Foundation.h>
 #import <UserNotifications/UserNotifications.h>
